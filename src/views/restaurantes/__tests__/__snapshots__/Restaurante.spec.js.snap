@@ -1,0 +1,30 @@
+// Vitest Snapshot v1
+
+exports[`Restaurante > Existe uma pagina restaurante 1`] = `
+"<div><button type=\\"button\\" class=\\"v-btn v-btn--elevated v-theme--light v-btn--density-default v-btn--size-default v-btn--variant-elevated\\">
+    <div class=\\"v-btn__overlay\\"></div>
+    <div class=\\"v-btn__underlay\\"></div>
+    <!---->
+    <div class=\\"v-btn__content\\" data-no-activator=\\"\\">
+      <!---->
+    </div>
+    <!---->
+    <!---->
+  </button>
+  <div class=\\"v-table v-theme--light v-table--density-compact\\">
+    <!---->
+    <div class=\\"v-table__wrapper\\">
+      <table>
+        <thead>
+          <tr>
+            <th class=\\"text-left\\"> ID </th>
+            <th class=\\"text-left\\"> Nome </th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <!---->
+  </div>
+</div>"
+`;
