@@ -6,6 +6,7 @@
           :color="color"
           :elevation="elevation"
           dark
+          style="color: white"
           min-height="80"
 
       >

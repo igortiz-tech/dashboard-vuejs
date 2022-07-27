@@ -51,7 +51,7 @@
       </v-navigation-drawer>
       <v-app-bar
           elevation="0"
-          style="background: #f3f1f1">
+          style="background: #DEDEDE">
         <v-app-bar-title>{{currentRouteName}}</v-app-bar-title>
         <v-spacer></v-spacer>
 
@@ -63,7 +63,7 @@
           <v-icon>mdi-dots-vertical</v-icon>
         </v-btn>
       </v-app-bar>
-      <v-main style="background: #f3f1f1;" class="ml-4">
+      <v-main style="background: #DEDEDE;" class="ml-4">
         <div class="ma-2">
           <div class="text-mutted mb-2">{{currentRouteDescription}}</div>
         </div>
